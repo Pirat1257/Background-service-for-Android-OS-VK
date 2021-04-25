@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile_1_4</string>
+    <string name="lab_4_service">LAB_4 - Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start service</string>
+    <integer name="com_vk_sdk_AppId">7674380</integer>
+</resources>
