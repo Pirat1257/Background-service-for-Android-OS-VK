@@ -1,4 +1,4 @@
-# Background service for Android OS
+# Background service for Android OS VK
  Introduction to mobile technologies and communications
 
 Приложение для ОС Google Android, представляющее собой фоновый сервис.
